@@ -1,0 +1,6 @@
+Peugeot 508;SDL618;Mûszaki vizsga;27000;2021.11.28;
+Honda Civic;PKF752;Mûszaki vizsga;27000;2021.11.27;
+Honda Civic;PKF752;Porvédõ;20000;2020.04.28;
+Honda Civic;PKF752;Lengõkar szilent;30000;2020.04.28;
+Honda Civic;PKF752;Lengéscsillapító gátlók;120000;2021.11.28;
+Ford Mondeo;FFS345;Katalizátor csere;245000;2019.04.24;
