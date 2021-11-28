@@ -1,0 +1,3 @@
+D:/Egyetem/Prog/NagyHF/Autoszerviz_codeblocks/Autoszerviz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Egyetem/Prog/NagyHF/Autoszerviz_codeblocks/Autoszerviz/cmake-build-debug/CMakeFiles/Autoszerviz.dir
+D:/Egyetem/Prog/NagyHF/Autoszerviz_codeblocks/Autoszerviz/cmake-build-debug/CMakeFiles/edit_cache.dir
