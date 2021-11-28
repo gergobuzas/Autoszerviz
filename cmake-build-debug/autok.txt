@@ -1,0 +1,7 @@
+Nyíri Balázs;06709876543;Peugeot;508;2019;Benzin;2.4;SDL618;2024.11.28.;
+Jankó Árpád;06201234567;Ford;Mondeo;2008;Dízel;2.2;FFS345;2021.12.30.;
+Tóth Bálint;06308899443;Toyota;Supra;1998;Benzin;3;LIN001;2022.12.25.;
+Kis Anna;06307283728;Audi;A4;2014;dízel;2;MPF325;2021.12.05.;
+Buzás Gergõ;06206179450;Honda;Civic;2006;benzin;1.8;PKF752;2022.06.22.;
+Fehér Marcell;06705553344;Skoda;Octavia;2005;Dízel;1.9;JMF455;2022.02.28.;
+Farkasházi Levente;06420696969;Toyota;Yaris Verso;2000;Benzin;1.3;RUCSI1;2022.04.20.;
